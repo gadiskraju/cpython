@@ -1,0 +1,11 @@
+a=10
+b=10
+print(a,b)
+print("a",b)
+a,b=10,10
+print(a,b)
+raju,ravi,ramesh=25,35,52
+print(raju,ravi,ramesh)
+print(ravi)
+ra=25
+print('25')
